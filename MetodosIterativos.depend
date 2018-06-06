@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481085486 source:c:\users\vitor.desktop-uf78l7a\desktop\metodos iterativos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
